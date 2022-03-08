@@ -1,5 +1,5 @@
 # rentx
-Car rental app.
+Car rental app. In progress...
 
 ![](src/assets/screen-01.png)
 ![](src/assets/screen-02.png)
