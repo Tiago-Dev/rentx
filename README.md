@@ -13,6 +13,8 @@ Car rental app. In progress...
 - Styled Components
 
 ## Run app
+yarn install
+
 - Change the variable baseURL in the src/services/api.ts file to your IP 
 
 Ex: baseURL: 'http://{YOUR IP HERE}:3333',
