@@ -14,7 +14,10 @@ Car rental app. In progress...
 
 ## Run app
 yarn install
+expo start
 
+## Run server
+npm install -g json-server
 - Change the variable baseURL in the src/services/api.ts file to your IP 
 
 Ex: baseURL: 'http://{YOUR IP HERE}:3333',
@@ -23,4 +26,4 @@ Ex: baseURL: 'http://{YOUR IP HERE}:3333',
 
 json-server ./src/services/server.json --host {YOUR IP HERE} --port 3333 —delay 700
 
-expo start
+
